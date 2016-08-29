@@ -63,8 +63,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ComparedObject.cs" />
-    <Compile Include="Assets\Scripts\MainGame.cs" />
+    <Compile Include="Assets\Scripts\AnswerScript.cs" />
+    <Compile Include="Assets\Scripts\InstructionScript.cs" />
+    <Compile Include="Assets\Scripts\MainGameScript.cs" />
+    <Compile Include="Assets\Scripts\ResetButtonScript.cs" />
+    <Compile Include="Assets\Scripts\ScoreScript.cs" />
     <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCamera.cs" />
     <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCameraAnchor.cs" />
     <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCameraUtil.cs" />

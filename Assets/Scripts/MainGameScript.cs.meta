@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28df9980e1771804e810d01c3b633ad0
+timeCreated: 1472455135
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - correctans: {fileID: 8300000, guid: 5d1ef66eae068c54298acfbc02096766, type: 3}
+  - wrongans: {fileID: 8300000, guid: 1715caf3aec38dc4ea387cc6d5f20b37, type: 3}
+  - gamecam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
